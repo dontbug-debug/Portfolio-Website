@@ -1,0 +1,6 @@
+1. Command to start:
+	pnpm create vite [name-of-app]
+
+2. Choose the framework and variant with SWC (faster updating)
+
+
