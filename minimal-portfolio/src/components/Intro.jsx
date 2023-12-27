@@ -10,8 +10,8 @@ function Intro() {
         Software & Web Developer
       </p>
       <p className="text-sm max-w-wl mb-6 font-bold">
-        I am a Software & Web Developer who has just finished my Bachelor&apos;s
-        in Computer Science.
+        I am a Software & Web Developer who has just finished his
+        Bachelor&apos;s in Computer Science.
         <br />I am passionate about building excellent software that improves
         the lives of those around me. All of the coding projects listed have
         been worked and collaborated on by me, throughtout my university.
