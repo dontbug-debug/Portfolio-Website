@@ -13,7 +13,7 @@ export default [
     title: "Long Covid Study Participant Portal",
     duration: "12 weeks",
     details:
-      "Built for an advanced software engineering course, a participant portal for a long covid study. Where I served as a build master for a team of 9 devs",
+      "Built for an advanced software engineering course, a participant portal for a long covid study. Where I served as a build master for a team of 9 devs.",
   },
   {
     key: 2,
