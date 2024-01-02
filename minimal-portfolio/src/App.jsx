@@ -76,7 +76,13 @@ function App() {
           <Intro />
           <Portfolio />
           <Timeline />
-          <Contact />
+          {/* <Contact /> */}
+          {/* <button
+            type="button"
+            className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-yellow-500 to-pink-500 drop-shadow-md hover:stroke-white"
+          >
+            Resume
+          </button> */}
           <Footer />
         </div>
       </div>
