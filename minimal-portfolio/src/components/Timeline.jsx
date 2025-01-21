@@ -13,7 +13,6 @@ function Timeline() {
             key={item.id}
             year={item.year}
             title={item.title}
-            duration={item.duration}
             details={item.details}
           />
         ))}
